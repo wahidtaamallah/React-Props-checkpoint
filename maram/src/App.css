@@ -1,0 +1,30 @@
+.img{
+    width: 500px;
+    height: 500px;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.App {
+    text-align: center;
+    background-color: #dfd4c3;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: cursive;
+  }
+  
+  .clp {
+    display: flex;
+    font-size: 200%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+   
+  }
+  button{
+      background-color:rgb(206, 132, 193);
+      padding: 5px;
+      color:black;
+      margin-right: 0px;
+      font-family:'Courier New', Courier, monospace;
+  }
